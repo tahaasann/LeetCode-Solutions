@@ -2,11 +2,17 @@
 
 ## İçindekiler
 [Problem Özeti](#problem-özeti)
+
 [Adım 1: Problemi Anlama](#adım-1-problemi-anlama)
+
 [Adım 2: Problemi Parçalara Ayırma](#adım-2-problemi-parçalara-ayırma)
+
 [Adım 3: Algoritma Tasarlama](#adım-3-algoritma-tasarlama)
+
 [Adım 4: Gerekli Veri Yapılarını ve Fonksiyonları Belirleme](#adım-4-gerekli-veri-yapılarını-ve-fonksiyonları-belirleme)
+
 [Adım 5: Kodlama](#adım-5-kodlama)
+
 [Adım 6: Optimizasyon](#adım-6-optimizasyon)
 
 ## Problem Özeti

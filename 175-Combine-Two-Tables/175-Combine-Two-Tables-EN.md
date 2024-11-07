@@ -2,11 +2,17 @@
 
 ## Table of Contents
 [Problem Summary](#problem-summary)
+
 [Step 1: Understand the Problem](#step-1-understand-the-problem)
+
 [Step 2: Break Down the Problem](#step-2-break-down-the-problem)
+
 [Step 3: Design the Algorithm](#step-3-design-the-algorithm)
+
 [Step 4: Define the Necessary Data Structures and Functions](#step-4-define-the-necessary-data-structures-and-functions)
+
 [Step 5: Coding](#step-5-coding)
+
 [Step 6: Optimization](#step-6-optimization)
 
 ## Problem Summary
