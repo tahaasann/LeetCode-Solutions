@@ -11,3 +11,5 @@ As much as I can, I will try to share the solution of leet code problems, especi
 - [175-Combine-Two-Tables-EN](./175-Combine-Two-Tables/175-Combine-Two-Tables-EN.md)
 - [176-Second-Highest-Salary-TR](./176-Second-Highest-Salary/176-Second-Highest-Salary-TR.md)
 - [176-Second-Highest-Salary-EN](./176-Second-Highest-Salary/176-Second-Highest-Salary-EN.md)
+- [177-Nth-Highest-Salary-TR](./177-Nth-Highest-Salary/177-Nth-Highest-Salary-TR.md)
+- [177-Nth-Highest-Salary-EN](./177-Nth-Highest-Salary/177-Nth-Highest-Salary-EN.md)
